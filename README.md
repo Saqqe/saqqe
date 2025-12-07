@@ -4,16 +4,6 @@ Welcome to my corner of GitHub. This is where experiments, side projects, and cu
 
 ---
 
-## 📌 Now (August 2025)  
-Here’s what I’m focused on right now:  
-- ⚡ Experimenting with **ChirpStack + AWS IoT** for connected devices.  
-- 🛠️ Running a **home lab that mimics AWS services** (with Raspberry Pi, Docker, and more).  
-- 🤖 Building small **Generative AI apps** to explore practical use cases.  
-- 📚 Learning and working towards aws solution architect associate certification.
-- ✍️ Writing and reflecting regularly with [LogSeq](https://logseq.com/).
-
----
-
 ## 🌍 A little about me  
 I’m an **Engineering Manager** at [Knowit Connectivity](https://www.knowit.se/), where I juggle multiple projects, lead leaders, and keep teams moving forward. My days are split between **big-picture strategy** and **hands-on problem solving**—which basically means one moment I’m talking roadmaps, the next I’m troubleshooting.
 
